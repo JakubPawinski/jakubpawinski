@@ -67,7 +67,7 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/JakubPawinski/WordMaster">
-        <img src="./Wordmaster_home.png"
+        <img src="./WordMaster_home.png"
              alt="Wordle Game"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
