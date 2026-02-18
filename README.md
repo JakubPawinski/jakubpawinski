@@ -160,8 +160,8 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakubpawinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubpawinski&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jakubpawinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jakubpawinski&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
 </div>
 
 ## 📫 Get in Touch
