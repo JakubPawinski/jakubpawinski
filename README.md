@@ -157,6 +157,12 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
 
 ---
 
+## 🔎 Other Projects
+
+- [Sudoku](https://github.com/JakubPawinski/sudoku-app) - Fully-featured Sudoku game with multiple difficulty levels, hint system, and a sleek React interface. *Tech* Pygame
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
