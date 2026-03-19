@@ -17,10 +17,10 @@ I'm a final-year **Computer Science student** at the University of Gdańsk with 
 
 My focus lies in building **high-performance APIs** and exploring how **Large Language Models (LLMs)** can be integrated to create intelligent, scalable systems. I don't just write code; I prioritize building "production-ready" solutions—meaning they are well-structured, containerized, and prepared to handle real traffic and real-world challenges.
 
-- 🔭 **Current Focus:** Developing robust backend architectures with **NestJS**, **Spring Boot** and **Microservices**.
+- 🔭 **Current Focus:** Developing robust backend architectures with **NestJS**, **Node.js** and **Microservices**.
 - 🤖 **AI Integration:** Exploring **LLMs** and building AI-powered features.
 - ☁️ **Infrastructure:** Learning how to orchestrate services with **Kubernetes** and automating workflows.
-- 🎯 **Goal:** Seeking a Junior/Intern role to build smart, scalable backend solutions.
+- 🎯 **Goal:** Developing expertise in building scalable, efficient backend systems.
 
 ---
 
@@ -28,7 +28,7 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
 
 ### 🧱 Backend Stack
 
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
 
 ### 🗄️ Databases & Message Queues
 
@@ -73,9 +73,9 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
       </a>
       <br/>
       <b>Wordle Game</b><br/>
-      <sub>Cloud-native word game platform built with 7 microservices. Demonstrates professional practices including OAuth2/OIDC, async multiplayer, and a dual-database approach.</sub>
+      <sub>Cloud-native word game platform built with microservices. Demonstrates professional practices including OAuth2/OIDC, async multiplayer, and a dual-database approach.</sub>
       <br/>
-      <sub>🚀 <b>7 Microservices</b> • 🎮 <b>Async Multiplayer</b> • 🔐 <b>OAuth2/Keycloak</b></sub>
+      <sub>🚀 <b>Microservices</b> • 🎮 <b>Async Multiplayer</b> • 🔐 <b>OAuth2/Keycloak</b></sub>
       <br/><br/>
       🔗 <a href="https://github.com/JakubPawinski/WordMaster">Repo</a>
       <br/>
