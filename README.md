@@ -50,7 +50,7 @@ My focus lies in building **high-performance APIs** and exploring how **Large La
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/JakubPawinski/GitCode.dev">
-        <img src="./GitCode_logo.png"
+        <img src="./gitcode_logo.png"
              alt="GitCode.dev"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
